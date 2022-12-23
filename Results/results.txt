@@ -1,0 +1,13 @@
+
+Resnet 10
+Epoch 1/2
+5699/5699 [==============================] - 5507s 966ms/step - loss: 0.2363 - accuracy: 0.9000 - val_loss: 0.2051 - val_accuracy: 0.9140
+Epoch 2/2
+5699/5699 [==============================] - 5472s 960ms/step - loss: 0.1957 - accuracy: 0.9179 - val_loss: 0.1982 - val_accuracy: 0.9168
+
+resnet18
+Epoch 1/2
+5699/5699 [==============================] - 8746s 2s/step - loss: 0.2379 - accuracy: 0.8995 - val_loss: 0.2099 - val_accuracy: 0.9097
+Epoch 2/2
+5699/5699 [==============================] - 8765s 2s/step - loss: 0.1937 - accuracy: 0.9198 - val_loss: 0.1882 - val_accuracy: 0.9189
+
